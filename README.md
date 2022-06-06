@@ -1,7 +1,7 @@
 # merge
 
 
-- Developer 1 codes feature one
+- Developer 1 codes feature one from main initial commit
 ``` 
  git checkout -b feature/one
  git add .
@@ -14,7 +14,7 @@
 
 - Developer 1 creates PR1
 
-- Developer 2 codes feature two
+- Developer 2 codes feature two from main initial commit
 ``` 
 git checkout -b feature/two
 echo feature 2 >> code.txt
